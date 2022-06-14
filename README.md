@@ -7,18 +7,18 @@
 ## Some languages and tools
 
 [![Haskell](icons/haskell.svg)](https://www.haskell.org/)
-<img height="32" width="32" src="icons/javascript.svg" />
-<img height="32" width="32" src="icons/react.svg" />
-<img height="32" width="32" src="icons/gatsbyjs.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
-<img height="32" width="32" src="icons/html5.svg" />
-<img height="32" width="32" src="icons/sass.svg" />
-<img height="32" width="32" src="icons/php.svg" />
-<img height="32" width="32" src="icons/laravel.svg" />
-<img height="32" width="32" src="icons/blender.svg" />
-<img height="32" width="32" src="icons/gimp.svg" />
-<img height="32" width="32" src="icons/inkscape.svg" />
-<img height="32" width="32" src="icons/godot.svg" />
-<img height="32" width="32" src="icons/rust.svg" />
-<img height="32" width="32" src="icons/bash.svg" />
+[![Javascript](icons/javascript.svg)](https://en.wikipedia.org/wiki/JavaScript)
+[![React](icons/react.svg)](https://reactjs.org/)
+[![Gatsby](icons/gatsbyjs.svg)](https://www.gatsbyjs.com/)
+[![Neovim](icons/neovim.svg)](http://neovim.io/)
+[![Archlinux](icons/archlinux.svg)](https://archlinux.org/)
+[![HTML5](icons/html5.svg)](https://en.wikipedia.org/wiki/HTML5)
+[![Sass](icons/sass.svg)](https://sass-lang.com/)
+[![PHP](icons/php.svg)](https://www.php.net/)
+[![Laravel](icons/laravel.svg)](https://laravel.com/)
+[![Blender](icons/blender.svg)](https://www.blender.org/)
+[![Gimp](icons/gimp.svg)](https://www.gimp.org/)
+[![Inkscape](icons/inkscape.svg)](https://inkscape.org/)
+[![Godot](icons/godot.svg)](https://godotengine.org/)
+[![Rust](icons/rust.svg)](https://www.rust-lang.org/)
+[![Bash](icons/bash.svg)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
