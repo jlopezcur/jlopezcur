@@ -1,8 +1,8 @@
 ## Hello World 👋
 
 - 🔭 I’m currently working on ... [dotfiles](https://github.com/jlopezcur/dotfiles), [dislearning](https://github.com/dislearning) and [pianess](https://github.com/pianess)
-- 🌱 I’m currently learning ... [Haskell](https://www.haskell.org/) and [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on ... [xmonad](https://xmonad.org/)
+- 🌱 I’m currently learning ... [Rust](https://www.rust-lang.org/) and [Zig](https://ziglang.org/)
+- 👯 I’m looking to collaborate on ... [phosh](https://gitlab.gnome.org/World/Phosh/phosh/-/tree/main)
 
 ## Some languages and tools
 
