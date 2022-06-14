@@ -6,7 +6,7 @@
 
 ## Some languages and tools
 
-<img height="32" width="32" src="icons/haskell.svg" /> _
+<a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="icons/haskell.svg" /></a> _
 <img height="32" width="32" src="icons/javascript.svg" /> _
 <img height="32" width="32" src="icons/react.svg" /> _
 <img height="32" width="32" src="icons/gatsbyjs.svg" /> _
