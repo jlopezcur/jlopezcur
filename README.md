@@ -10,6 +10,16 @@
 <img height="32" width="32" src="icons/javascript.svg" /> _
 <img height="32" width="32" src="icons/react.svg" /> _
 <img height="32" width="32" src="icons/gatsbyjs.svg" /> _
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gimp.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/inkscape.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/godotengine.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/rust.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" /> _
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" /> _
+<img height="32" width="32" src="icons/html5.svg" />
+<img height="32" width="32" src="icons/sass.svg" />
+<img height="32" width="32" src="icons/php.svg" />
+<img height="32" width="32" src="icons/laravel.svg" />
+<img height="32" width="32" src="icons/blender.svg" />
+<img height="32" width="32" src="icons/gimp.svg" />
+<img height="32" width="32" src="icons/inkscape.svg" />
+<img height="32" width="32" src="icons/godot.svg" />
+<img height="32" width="32" src="icons/rust.svg" />
 
 (Icons from: [simpleicons.org](http://simpleicons.org/))
