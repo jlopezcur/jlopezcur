@@ -6,7 +6,7 @@
 
 ## Some languages and tools
 
-<a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="icons/haskell.svg" /></a>
+[![Haskell](icons/haskell.svg)](https://www.haskell.org/)
 <img height="32" width="32" src="icons/javascript.svg" />
 <img height="32" width="32" src="icons/react.svg" />
 <img height="32" width="32" src="icons/gatsbyjs.svg" />
@@ -21,3 +21,4 @@
 <img height="32" width="32" src="icons/inkscape.svg" />
 <img height="32" width="32" src="icons/godot.svg" />
 <img height="32" width="32" src="icons/rust.svg" />
+<img height="32" width="32" src="icons/bash.svg" />
