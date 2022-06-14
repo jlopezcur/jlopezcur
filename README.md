@@ -21,5 +21,3 @@
 <img height="32" width="32" src="icons/inkscape.svg" />
 <img height="32" width="32" src="icons/godot.svg" />
 <img height="32" width="32" src="icons/rust.svg" />
-
-(Icons from: [simpleicons.org](http://simpleicons.org/))
