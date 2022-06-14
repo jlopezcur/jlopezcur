@@ -6,12 +6,12 @@
 
 ## Some languages and tools
 
-<a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="icons/haskell.svg" /></a> _
-<img height="32" width="32" src="icons/javascript.svg" /> _
-<img height="32" width="32" src="icons/react.svg" /> _
-<img height="32" width="32" src="icons/gatsbyjs.svg" /> _
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" /> _
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" /> _
+<a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="icons/haskell.svg" /></a>
+<img height="32" width="32" src="icons/javascript.svg" />
+<img height="32" width="32" src="icons/react.svg" />
+<img height="32" width="32" src="icons/gatsbyjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/neovim.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
 <img height="32" width="32" src="icons/html5.svg" />
 <img height="32" width="32" src="icons/sass.svg" />
 <img height="32" width="32" src="icons/php.svg" />
